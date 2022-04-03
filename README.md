@@ -1,2 +1,4 @@
 # VGG13-on-Cifar10
-Building VGG13 from scratch and testing it on CIFAR10. 
+Buiding VGG13 on the testing the model on Cifgar. 
+
+
